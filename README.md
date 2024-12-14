@@ -1,8 +1,6 @@
 <h1 align="center">Redis Chat App ⚡</h1>
 
-![Demo App](/public/screenshot-for-readme.png)
 
-[Video Tutorial on Youtube](https://youtu.be/0Kzd4k1YuCA)
 
 About This Course:
 
