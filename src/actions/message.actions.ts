@@ -57,7 +57,7 @@ export async function sendMessageAction({ content, messageType, receiverId }: Se
 		messageType,
 	});
 
-	await redis.zadd(`${conversationId}:messages`, timestamp, messageId);
+	await redis.zadd(`${conversationId}:messages`, { score: timestamp, member: JSON.stringify(messageId) });
 
 	const channelName = `${senderId}__${receiverId}`.split("__").sort().join("__");
 
