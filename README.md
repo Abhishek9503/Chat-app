@@ -1,8 +1,9 @@
 <h1 align="center">Redis Chat App ⚡</h1>
 
+![image](https://github.com/user-attachments/assets/1f249793-580d-4222-af8c-343e9676c414)
 
 
-About This Course:
+About This Project:
 
 -   ⚛️ Tech Stack: Next.js 14, TypeScript, Tailwind CSS, `UPSTASH` Redis
 -   🔐 Authentication
@@ -17,7 +18,6 @@ About This Course:
 -   💙 Awesome Landing Page
 -   🌐 Deployment
 -   🚀 And Many More Cool Features
--   ✅ This is a lot of work. Support my work by subscribing to the [Channel](https://www.youtube.com/@asaprogrammer_)
 
 ### Setup .env file
 
